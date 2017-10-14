@@ -1,1 +1,7 @@
+
 documentação do google maps: https://developers.google.com/maps/documentation/android-api/start
+
+links sobre git:
+	- http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/
+[13:42, 13/10/2017] +55 67 9247-5858: 
+	- https://code.tutsplus.com/pt/tutorials/focusing-on-a-team-workflow-with-git--cms-22514
