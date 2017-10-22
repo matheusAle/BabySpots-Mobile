@@ -3,5 +3,8 @@ documentação do google maps: https://developers.google.com/maps/documentation/an
 
 links sobre git:
 	- http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/
-[13:42, 13/10/2017] +55 67 9247-5858: 
 	- https://code.tutsplus.com/pt/tutorials/focusing-on-a-team-workflow-with-git--cms-22514
+
+video aulas sobre api do google maps:
+	- https://www.youtube.com/watch?v=IukzSur4JyU&list=PLVawTLaO8Js-kPn-t5bbCdcK74MHNt99V
+
