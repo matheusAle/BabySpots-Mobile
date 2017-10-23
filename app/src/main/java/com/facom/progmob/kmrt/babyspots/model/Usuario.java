@@ -16,4 +16,9 @@ public class Usuario {
 
     //TODO continuar a implementação!
 
+    public Usuario(String nome, String email, Image fotoDePerfil) {
+        this.nome = nome;
+        this.email = email;
+        this.fotoDePerfil = fotoDePerfil;
+    }
 }
