@@ -21,6 +21,21 @@ public class Comentario {
         this.dataDoComentario = dataDoComentario;
         this.comentarios = comentarios;
     }
+    
+    public String getUsuarioID() {
+        return usuarioID;
+    }
 
+    public void setUsuarioID(String usuarioID) {
+        this.usuarioID = usuarioID;
+    }
+
+    public String getDataDoComentario() {
+        return dataDoComentario;
+    }
+
+    public void setDataDoComentario(String dataDoComentario) {
+        this.dataDoComentario = dataDoComentario;
+    }
     //TODO terminar implementação!
 }
