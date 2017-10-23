@@ -15,5 +15,12 @@ public class Comentario {
     private String dataDoComentario;
     private HashMap<Servico, String> comentarios;
 
+    
+    public Comentario(String usuarioID, String dataDoComentario, HashMap<Servico, String> comentarios) {
+        this.usuarioID = usuarioID;
+        this.dataDoComentario = dataDoComentario;
+        this.comentarios = comentarios;
+    }
+
     //TODO terminar implementação!
 }
