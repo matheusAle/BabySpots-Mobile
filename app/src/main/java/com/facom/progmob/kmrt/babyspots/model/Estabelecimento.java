@@ -7,5 +7,9 @@ package com.facom.progmob.kmrt.babyspots.model;
 public class Estabelecimento {
     private String nome;
     private String endreco;
-
+    
+ public Estabelecimento(String nome, String endereco) {
+        this.nome = nome;
+        this.endereco = endereco;
+    }
 }
