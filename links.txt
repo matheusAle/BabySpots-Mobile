@@ -1,5 +1,6 @@
 
-documentação do google maps: https://developers.google.com/maps/documentation/android-api/start
+documentação do google maps: 
+	- https://developers.google.com/maps/documentation/android-api/start
 
 links sobre git:
 	- http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/
@@ -8,3 +9,18 @@ links sobre git:
 video aulas sobre api do google maps:
 	- https://www.youtube.com/watch?v=IukzSur4JyU&list=PLVawTLaO8Js-kPn-t5bbCdcK74MHNt99V
 
+sobre intents:
+	- https://developer.android.com/guide/components/intents-filters.html
+
+animações:
+	- parte 1: https://android-developers.googleblog.com/2011/02/animation-in-honeycomb.html
+	- parte 2: https://android-developers.googleblog.com/2011/05/introducing-viewpropertyanimator.html
+
+sobre os eventos de entrada:
+	- https://developer.android.com/guide/topics/ui/ui-events.html
+
+sobre Arrastar e soltar:
+	- https://developer.android.com/guide/topics/ui/ui-events.html
+
+sobre menus:
+	- https://developer.android.com/guide/topics/ui/menus.html

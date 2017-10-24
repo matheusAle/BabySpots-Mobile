@@ -1,0 +1,22 @@
+// o objtivo destas recomentações é evitar conflitos entre versões de codigo.
+
+1. Metodos e classes que já existem no repositório no github NÃO podem der deletados explicitamente. Se a existencia de uma classe
+ou metodo não for mais necessaria, a classe/metodo dever ser anotada com "@deprecated" seguida de pelo menos uma linha de comentario explicando o porque.
+
+2. A assinatura de metodos já existentes no repositório github não deve ser alterada. 
+Se for necessario, crie um novo metodo e anote o anterior com @deprecated e comente o motivo, se necessário.
+
+3. TODOS o metodos(com exessão dos gets e sets, salvos os casos em que eles realizam operações extras a apenas retorno/atribuição) 
+devem ter documentação (javaDoc).
+
+3. Linhas de codigo que realizam operações complexas dever ter uma linha explicando a o que está semdo feito.
+
+4. nome de classes já existentes no repositório github não devem ter ser nome alterado.
+Se for necessario alterar o nome de uam classe, coloque a musançã sujerida no arquivo txt "mudanças sugeridas.txt".
+
+5. Dê o push no ropositorio do github todos os domingos antes das 12h. Após esse horario, O Matheus fara as mudança sugerida e
+a remoção de @deprecated.
+
+6. a Descrição dos commits deve ser o mais abrangente o possivel. Tente sempre relatar o maior numero de mudaças realizadas.
+
+7. A operação(linhas de codigo dentro do metodo) de um metodo que já exite no github NÃO PODE SER AUTERADA de maneira alguma.
